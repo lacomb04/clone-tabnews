@@ -3,3 +3,7 @@ function Home() {
 }
 
 export default Home;
+
+function Teste() {
+  return <h1>Ola Mundo Git</h1>;
+}
